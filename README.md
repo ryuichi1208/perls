@@ -1,6 +1,10 @@
 # perls
  I tried to implement ls in perl
 
+## 比較
+
+2万ファイルのlsの結果差分(約2倍)
+
 #### perls
 
 ```
